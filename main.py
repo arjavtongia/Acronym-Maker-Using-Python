@@ -1,4 +1,4 @@
-user_input = str(input("Enter a Phrase"))
+user_input = str(input("Enter a Phrase: "))
 txt = user_input.split()
 
 a = ""
